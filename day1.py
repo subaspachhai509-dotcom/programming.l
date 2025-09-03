@@ -1,0 +1,11 @@
+i=5
+i=10
+print(i)
+print(type(5))
+print(type(5.1))
+constants
+PI=3.14
+EARTH_GRAVITY=9.8
+PI=3.14
+Pi=100
+print(Pi)

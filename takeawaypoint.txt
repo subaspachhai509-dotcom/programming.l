@@ -1,0 +1,4 @@
+format document with 
+     install  extension
+     right click>>format documenbt with>>configur defaultn format>>preetier
+     go to setting>>setting>>search format on save>>check format on save
